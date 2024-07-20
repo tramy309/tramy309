@@ -12,9 +12,6 @@ Greetings! I'm Tra My.
 - 📧 Feel free to reach out to me via email.
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/my-dinh-ngoc-tra/).
 
-## GitHub Stats
-🌟![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tramy309&show_icons=true&theme=radical)
-
 ## Thank You
 I appreciate you stopping by my GitHub profile. I'm enthusiastic about connecting, collaborating, and learning.
 
